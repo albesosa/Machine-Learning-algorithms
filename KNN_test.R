@@ -7,7 +7,7 @@
 # whose parameters (mean and covariance matrix) can be individually adjusted
 #-Then the data randomly generated is divided in two subgroups, which will be
 # used later as the training subset and the test subset respectively
-#-The KNN algorithm is applied on the test data subset two classify it as Group A or Group B
+#-The KNN algorithm is applied on the test data subset to classify it as Group A or Group B
 #-Finally the decision boundary obtained from the KNN algorithm is plotted together with
 # Bayes decision boundary and the classified points (using KNN)
 #-The output TT indicates the classifications successfully assigned to groups A and B.
